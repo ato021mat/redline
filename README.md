@@ -1,2 +1,3 @@
-# redline
-Redline Racing Game
+# Redline
+
+Multiplayer Racing Management Game
